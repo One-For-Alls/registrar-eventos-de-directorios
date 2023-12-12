@@ -1,4 +1,4 @@
-#Capturador de eventos de directorio
+# Capturador de eventos de directorio
 ###Realizado con: 
 - Node
 
