@@ -1,8 +1,8 @@
 # Capturador de eventos de directorio
-###Realizado con: 
+### Realizado con: 
 - Node
 
-###Bibliotecas:
+### Bibliotecas:
 - Chokidar
 - fileSystem
 - path
